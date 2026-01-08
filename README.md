@@ -1,4 +1,4 @@
-# YouTube-dataset-sample
+# YouTube 데이터셋 샘플
 
 <h2>1001개의 YouTube 댓글로 구성된 샘플 データセット</h2>
 
